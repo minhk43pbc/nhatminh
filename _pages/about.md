@@ -1,8 +1,11 @@
 ---
-title: About
-permalink: /about/
+permalink: /
+title: "Nhat-Minh's Home Page"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
 ---
-
 I am currently a **PhD student** at **Nanyang Technological University (NTU), Singapore**, where I am fortunate to be working under the supervision of [**Prof. Lihua Xie**][xie].
 
 I received both my **Bachelor’s** and **Master’s degrees** in **Control and Automation Engineering** from **Hanoi University of Science and Technology (HUST)**, graduating as valedictorian.
