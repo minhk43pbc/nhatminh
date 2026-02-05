@@ -23,7 +23,7 @@ repository               : "minhk43pbc/nhatminh.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/minhlpn1.png"
+  avatar           : "minhlpn1.png"
   name             : "Nhat-Minh Le-Phan"
   pronouns         : # example: "she/her"  
   bio              : "PhD student"
